@@ -1,5 +1,5 @@
 # node-auth-KMITL
-1.) npm install
+1.) npm install <br/>
 2.) Change username and password in config.json
   - Example
     - {
